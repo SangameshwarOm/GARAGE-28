@@ -1,0 +1,4 @@
+								GARAGE 28
+
+
+The Garage 28 is a online car consultancy website which works only in the frontend segment. This website is dedicate for users who are in need for rental cars and car detailing process including secondhand cars buying & selling.

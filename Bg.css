@@ -1,0 +1,13 @@
+src/BackgroundImage.css
+.Background-container {
+    height: 100vh; /* Full viewport height */
+    background-image: url('../asserts/cars.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Text color */
+    text-shadow: 1px 1px 2px black; /* Optional: adds a shadow to the text for better readability */
+  }
+  
